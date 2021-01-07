@@ -1,0 +1,3 @@
+11 Brebi Male Bonne 3 2 2020 1 1 2021
+123 Veau Male Malade 7 4 2014 1 1 2020
+2 Brebi Male Décès 2 1 2020 1 1 2020
