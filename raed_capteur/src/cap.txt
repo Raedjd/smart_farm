@@ -1,0 +1,11 @@
+1 (h(-h Humidite 4 3 2012 3 33 ZoneB 
+2 rgtrgz Humidite 4 4 2014 3 33 ZoneD 
+3 hhg Temperature 4 4 2013 4 32 ZoneD 
+5 hhg Temperature 7 6 2016 10 42 ZoneD 
+6 hhg Humidite 7 6 2016 13 44 ZoneA 
+7 kl Temperature 7 6 2016 13 44 ZoneA 
+8 758 Humidite 9 7 2016 13 44 ZoneD 
+9 758 Temperature 10 7 2018 9 37 ZoneF 
+10 758 Humidite 7 7 2020 11 39 ZoneE 
+erty g ghhb 7 7 2020 11 39 ZoneE 
+Humidite 5 4 2014 4 33 ZoneB 39 ZoneE 
